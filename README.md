@@ -1,5 +1,5 @@
 # streaming-lambda-layers
-This repository contains python and cdk code to create Lambda Layers that allow LLM response streaming.
+This repository contains python and cdk code to create Lambda Layers that allow LLM response streaming via websockets
 
 
 # Welcome to your CDK Python project!
